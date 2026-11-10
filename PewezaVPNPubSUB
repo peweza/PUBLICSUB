@@ -4,648 +4,162 @@
 #support-url: t.me/PewezaTech
 #profile-web-page-url: t.me/PewezaTech
 
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&spx=%2F%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2&insecure=0#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-01
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&spx=%2F%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-01
 
-vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@172.213.24.16:2083?security=reality&encryption=none&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&headerType=none&type=tcp&sni=www.apple.com&sid=0123456789abcdef&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B9-%40PewezaTech-02
+vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@172.213.24.16:2083?security=reality&encryption=none&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=0123456789abcdef#%F0%9F%87%AE%F0%9F%87%B9-%40PewezaTech-02
 
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-03
+vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-03
 
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@159.223.20.232:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-04
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@159.223.20.232:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-04
 
-vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@2.26.230.148:443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&type=tcp&sni=tradingview.com&sid=8f3c6e2a1b5d4f09&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-05
+vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@2.26.230.148:443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8f3c6e2a1b5d4f09#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-05
 
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-06
+vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-06
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&headerType=none&type=tcp&sni=api.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-07
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-07
 
-vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&headerType=none&fp=chrome&type=tcp&sni=key-master-saver.com&sid=1c3e8241a8743df9&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-08
+vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=key-master-saver.com&sid=1c3e8241a8743df9#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-08
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMnNobGJlUlhkRTQ1YVZB@20.166.20.135:443#%F0%9F%87%AE%F0%9F%87%AA-%40PewezaTech-09
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMnNobGJlUlhkRTQ1YVZB@20.166.20.135:443#%F0%9F%87%AE%F0%9F%87%AA-%40PewezaTech-10
 
-ss://YWVzLTI1Ni1nY206TkRVd09XWmtPV0ZoWTJGaVpHSmlNek01WTJGaE56UmxObUkyWVRnMg==@37.152.180.223:9147#%F0%9F%87%AE%F0%9F%87%B7-%40PewezaTech-11
+ss://YWVzLTI1Ni1nY206TkRVd09XWmtPV0ZoWTJGaVpHSmlNek01WTJGaE56UmxObUkyWVRnMg@37.152.180.223:9147#%F0%9F%87%AE%F0%9F%87%B7-%40PewezaTech-11
 
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@prime.jarbook.net:443?security=reality&encryption=none&pbk=oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k&headerType=none&type=tcp&sni=prime.jarbook.net&sid=77a8c8c8&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7-%40PewezaTech-12
+vless://95d0e214-eab0-4701-93ed-fea4f1b56062@prime.jarbook.net:443?security=reality&encryption=none&pbk=oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=prime.jarbook.net&sid=77a8c8c8#%F0%9F%87%AC%F0%9F%87%A7-%40PewezaTech-12
 
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-13
+vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-13
 
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@167.82.64.47:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=packet-up&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28iPhone%3B%2BCPU%2BiPhone%2BOS%2B16_1_1%2Blike%2BMac%2BOS%2BX%29%2BAppleWebKit%2F605.1.15%2B%28KHTML%2C%2Blike%2BGecko%29%2BVersion%2F16.1%2BMobile%2F15E148%2BSafari%2F604.1%22%7D%7D&insecure=0&host=cplusshape.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-14
+vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@167.82.64.47:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=packet-up&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28iPhone%3B%2BCPU%2BiPhone%2BOS%2B16_1_1%2Blike%2BMac%2BOS%2BX%29%2BAppleWebKit%2F605.1.15%2B%28KHTML%2C%2Blike%2BGecko%29%2BVersion%2F16.1%2BMobile%2F15E148%2BSafari%2F604.1%22%7D%7D&insecure=0&host=cplusshape.global.ssl.fastly.net&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-14
 
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=packet-up&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28iPhone%3B%2BCPU%2BiPhone%2BOS%2B16_1_1%2Blike%2BMac%2BOS%2BX%29%2BAppleWebKit%2F605.1.15%2B%28KHTML%2C%2Blike%2BGecko%29%2BVersion%2F16.1%2BMobile%2F15E148%2BSafari%2F604.1%22%7D%7D&insecure=0&host=cplusshape.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-15
+vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=packet-up&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28iPhone%3B%2BCPU%2BiPhone%2BOS%2B16_1_1%2Blike%2BMac%2BOS%2BX%29%2BAppleWebKit%2F605.1.15%2B%28KHTML%2C%2Blike%2BGecko%29%2BVersion%2F16.1%2BMobile%2F15E148%2BSafari%2F604.1%22%7D%7D&insecure=0&host=cplusshape.global.ssl.fastly.net&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-15
 
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&path=%2Fccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=is-tw-relay.cdn.cachefleet.com&fp=firefox&type=xhttp&sni=tansy-wharf.cdn.cachefleet.com#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-16
+vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&path=%2Fccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=is-tw-relay.cdn.cachefleet.com&fp=firefox&type=xhttp&allowInsecure=0&sni=tansy-wharf.cdn.cachefleet.com#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-16
 
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2&insecure=0#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-17
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-17
 
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@159.223.20.232:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-18
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@159.223.20.232:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-18
 
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.107:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&sni=qq.utiltools.site&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-19
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.107:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.site#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-19
 
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2&insecure=0#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-20
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-20
 
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.107:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&sni=qq.utiltools.site&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-21
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.107:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.site#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-21
 
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&path=%2Fccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=is-tw-relay.cdn.cachefleet.com&type=xhttp&sni=tansy-wharf.cdn.cachefleet.com#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-22
+vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&path=%2Fccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=is-tw-relay.cdn.cachefleet.com&type=xhttp&allowInsecure=0&sni=tansy-wharf.cdn.cachefleet.com#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-22
 
-vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=ios&type=tcp&sni=key-master-saver.com&sid=1c3e8241a8743df9&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-23
+vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=key-master-saver.com&sid=1c3e8241a8743df9#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-23
 
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&sni=qq.utiltools.site&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-24
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.site#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-24
 
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@131.123.43.103:443?security=reality&encryption=none&pbk=SgFQg7srP1xgjWhnSU9lpUMDRlsoLIXlw6nX-mfOdlg&headerType=none&type=tcp&sni=bg2.gacvpn.site&sid=1f8bab7ad81089f2&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A7%F0%9F%87%AC-%40PewezaTech-25
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@131.123.43.103:443?security=reality&encryption=none&pbk=SgFQg7srP1xgjWhnSU9lpUMDRlsoLIXlw6nX-mfOdlg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bg2.gacvpn.site&sid=1f8bab7ad81089f2#%F0%9F%87%A7%F0%9F%87%AC-%40PewezaTech-25
 
-vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=ios&type=tcp&sni=key-master-saver.com&sid=1c3e8241a8743df9&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-26
+vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=key-master-saver.com&sid=1c3e8241a8743df9#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-26
 
-vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&headerType=none&fp=chrome&type=tcp&sni=key-master-saver.com&sid=1c3e8241a8743df9&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-27
+vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=key-master-saver.com&sid=1c3e8241a8743df9#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-27
 
-vless://d651c9ab-b844-4420-b3d0-20d201ef5f55@38.244.155.67:443?security=reality&encryption=none&pbk=NLXltMEkWIxv9bL2J4XkPGb4oVwGbCkITCTXF-jVxAE&headerType=none&type=tcp&sni=node-eu-1.nztpro.com&sid=2976f793571fb671&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA-%40PewezaTech-28
+vless://d651c9ab-b844-4420-b3d0-20d201ef5f55@38.244.155.67:443?security=reality&encryption=none&pbk=NLXltMEkWIxv9bL2J4XkPGb4oVwGbCkITCTXF-jVxAE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-eu-1.nztpro.com&sid=2976f793571fb671#%F0%9F%87%AA%F0%9F%87%AA-%40PewezaTech-28
 
-vless://6430ede6-3f43-4beb-95c0-0fb29e9ea76d@estonia2.banovano.space:17417?mode=auto&path=%2F&security=reality&encryption=none&pbk=yhOC-2sFjE59lY3n0IA0AAluzIpjoJiL0QH1SQ_ZZQ8&type=xhttp&sni=yandex-cdn-mirror.ru&sid=728f3f459ddf&insecure=0#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-29
+vless://6430ede6-3f43-4beb-95c0-0fb29e9ea76d@estonia2.banovano.space:17417?mode=auto&path=%2F&security=reality&encryption=none&pbk=yhOC-2sFjE59lY3n0IA0AAluzIpjoJiL0QH1SQ_ZZQ8&type=xhttp&sni=yandex-cdn-mirror.ru&sid=728f3f459ddf#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-29
 
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@45.144.112.55:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&sni=yahoo.com&sid=c39cc7310a&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-30
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@45.144.112.55:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-30
 
-trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&sni=us001.zestapp778.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-31
+trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=us001.zestapp778.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-31
 
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?security=reality&encryption=none&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&headerType=none&type=tcp&sni=absolute-disaster.org&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-32
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?security=reality&encryption=none&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=absolute-disaster.org#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-32
 
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&type=tcp&sni=qq.utiltools.site&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-33
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.site#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-33
 
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@62.109.17.78:2058?security=reality&encryption=none&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&headerType=none&type=tcp&sni=www.cloudflare.com&sid=937255313d6ce673&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-34
+vless://4ad9f982-b56a-444a-9684-35ce51307a36@62.109.17.78:2058?security=reality&encryption=none&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=937255313d6ce673#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-34
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?security=tls&insecure=0&headerType=none&type=tcp&sni=blog.discovergreatjobsandadvanceyourcareer.com#%F0%9F%87%AA%F0%9F%87%B8-%40PewezaTech-35
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.discovergreatjobsandadvanceyourcareer.com#%F0%9F%87%AA%F0%9F%87%B8-%40PewezaTech-35
 
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&type=tcp&sni=qq.utiltools.site&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-36
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.site#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-36
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-37
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMnNobGJlUlhkRTQ1YVZB@20.166.20.135:443#%F0%9F%87%AE%F0%9F%87%AA-%40PewezaTech-38
 
-vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@199.232.78.159:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-39
+vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@199.232.78.159:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-39
 
-vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:60775?security=reality&encryption=none&pbk=2J1JGfkg39tJVB_Yv9fZPHCwuB_AfTBtMygLOyu6EFg&headerType=none&type=tcp&sni=api.adidas.com&sid=eaf7f5&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-40
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:60775?security=reality&encryption=none&pbk=2J1JGfkg39tJVB_Yv9fZPHCwuB_AfTBtMygLOyu6EFg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=api.adidas.com&sid=eaf7f5#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-40
 
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@83.217.201.82:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&type=tcp&sni=skvoz-dpi.com&sid=93ae75024604f796&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-41
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@83.217.201.82:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=skvoz-dpi.com&sid=93ae75024604f796#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-41
 
-vless://4dbf1ade-33f1-40dc-9273-e51babd570fe@104.36.69.105:443?security=reality&encryption=none&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&headerType=none&type=tcp&sni=portal.citygrainla.com&sid=051f20c2344a2dfd&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-42
+vless://4dbf1ade-33f1-40dc-9273-e51babd570fe@104.36.69.105:443?security=reality&encryption=none&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=portal.citygrainla.com&sid=051f20c2344a2dfd#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-42
 
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@doghkzf.zalolink.com:28675?security=reality&encryption=none&pbk=jgtiLXdCnQ9WRWMuu2gsuGQOQTCRZQpspnn228kjTSA&headerType=none&type=tcp&sni=www.lamer.com.hk&sid=9a79807253c040&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0-%40PewezaTech-43
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@doghkzf.zalolink.com:28675?security=reality&encryption=none&pbk=jgtiLXdCnQ9WRWMuu2gsuGQOQTCRZQpspnn228kjTSA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.hk&sid=9a79807253c040#%F0%9F%87%AD%F0%9F%87%B0-%40PewezaTech-43
 
-vless://48bbb40c-99b2-45fc-9572-215ea2f233fb@31.76.83.104:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&sni=lt-part.cookie-line.cc&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-44
+vless://48bbb40c-99b2-45fc-9572-215ea2f233fb@31.76.83.104:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lt-part.cookie-line.cc#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-44
 
-vless://1653818d-532e-46be-b825-384107fb7c3a@net.mediacorphub.org:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=home.v2.MetricsService&sni=net.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1-%40PewezaTech-45
+vless://1653818d-532e-46be-b825-384107fb7c3a@net.mediacorphub.org:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=home.v2.MetricsService&allowInsecure=0&sni=net.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1-%40PewezaTech-45
 
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.215.132.18:19999#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-46
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.18:19999#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-46
 
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.147:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=home.v1.ObjectService&sni=tracker.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1-%40PewezaTech-47
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.147:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=home.v1.ObjectService&allowInsecure=0&sni=tracker.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1-%40PewezaTech-47
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6-%40PewezaTech-48
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6-%40PewezaTech-48
 
-vless://7d53c50c-3abf-4cb5-9d58-e7a42ce1d1c6@148.113.5.22:443?security=reality&encryption=none&pbk=Z427KvuqeeUvrRo-BDKuc9xG5t0z0y4zAnhA_NIFFwI&headerType=none&type=tcp&sni=www.cloudflare.com&sid=7ff98efcced3fd5b&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B3-%40PewezaTech-49
+vless://7d53c50c-3abf-4cb5-9d58-e7a42ce1d1c6@148.113.5.22:443?security=reality&encryption=none&pbk=Z427KvuqeeUvrRo-BDKuc9xG5t0z0y4zAnhA_NIFFwI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7ff98efcced3fd5b#%F0%9F%87%AE%F0%9F%87%B3-%40PewezaTech-49
 
 ss://YWVzLTI1Ni1nY206RkpvX1YtS012cmlEZWtOMENZa2ROSDBD@177.202.64.67:1080#%F0%9F%87%B3%F0%9F%87%B1-%40PewezaTech-50
 
-vless://1653818d-532e-46be-b825-384107fb7c3a@img.mediacorphub.org:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=edge&type=grpc&serviceName=home.v2.MetricsService&sni=img.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1-%40PewezaTech-51
+vless://1653818d-532e-46be-b825-384107fb7c3a@img.mediacorphub.org:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=edge&type=grpc&serviceName=home.v2.MetricsService&allowInsecure=0&sni=img.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1-%40PewezaTech-51
 
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=packet-up&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28iPhone%3B%2BCPU%2BiPhone%2BOS%2B16_1_1%2Blike%2BMac%2BOS%2BX%29%2BAppleWebKit%2F605.1.15%2B%28KHTML%2C%2Blike%2BGecko%29%2BVersion%2F16.1%2BMobile%2F15E148%2BSafari%2F604.1%22%7D%7D&insecure=0&host=cplusshape.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-52
+vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=packet-up&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28iPhone%3B%2BCPU%2BiPhone%2BOS%2B16_1_1%2Blike%2BMac%2BOS%2BX%29%2BAppleWebKit%2F605.1.15%2B%28KHTML%2C%2Blike%2BGecko%29%2BVersion%2F16.1%2BMobile%2F15E148%2BSafari%2F604.1%22%7D%7D&insecure=0&host=cplusshape.global.ssl.fastly.net&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-52
 
-vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@wwww.qarvian.ir:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-53
+vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@wwww.qarvian.ir:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-53
 
-vless://c9bf7875-6722-43cd-91d8-d0528a57e426@170.205.36.116:8443?security=reality&encryption=none&pbk=5Oh9-P6sO_Fly4XU_sN0JOb4Ek3FgoMznhDExI70GEk&headerType=none&type=tcp&sni=dl.google.com&sid=ab96&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC-%40PewezaTech-54
+vless://c9bf7875-6722-43cd-91d8-d0528a57e426@170.205.36.116:8443?security=reality&encryption=none&pbk=5Oh9-P6sO_Fly4XU_sN0JOb4Ek3FgoMznhDExI70GEk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&sid=ab96#%F0%9F%87%B8%F0%9F%87%AC-%40PewezaTech-54
 
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?security=reality&encryption=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&headerType=none&fp=chrome&type=tcp&sni=gemsubbgem.world&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-55
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?security=reality&encryption=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gemsubbgem.world#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-55
 
-vless://69b5eabd-1232-4b9d-8b9f-62d4654a5de6@185.194.191.3:8443?security=reality&encryption=mlkem768x25519plus.native.0rtt.-qGa4ObyCM0bUJQUKtqXQe9w2h6OYI3AYPSSpKA-UHE&pbk=4gAKlcsEJm-DbirnMdDlpfHUGTohtRHkWzJNtOFspyE&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&headerType=none&fp=chrome&spx=%2F7d6ca087fed1ab6&type=tcp&sni=play.google.com&sid=d475c71951&insecure=0#%F0%9F%87%BA%F0%9F%87%A6-%40PewezaTech-56
+vless://69b5eabd-1232-4b9d-8b9f-62d4654a5de6@185.194.191.3:8443?security=reality&encryption=mlkem768x25519plus.native.0rtt.-qGa4ObyCM0bUJQUKtqXQe9w2h6OYI3AYPSSpKA-UHE&pbk=4gAKlcsEJm-DbirnMdDlpfHUGTohtRHkWzJNtOFspyE&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&headerType=none&fp=chrome&spx=%2F7d6ca087fed1ab6&type=tcp&sni=play.google.com&sid=d475c71951#%F0%9F%87%BA%F0%9F%87%A6-%40PewezaTech-56
 
-vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@201.58.185.120:443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&type=tcp&sni=tradingview.com&sid=8f3c6e2a1b5d4f09&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-57
+vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@201.58.185.120:443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8f3c6e2a1b5d4f09#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-57
 
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?security=reality&encryption=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&headerType=none&fp=chrome&type=tcp&sni=gemsubbgem.world&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-58
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?security=reality&encryption=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gemsubbgem.world#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-58
 
-vless://976f82d9-0e6b-40ed-9c09-cafd06c4bc98@187.7.206.49:443?security=reality&encryption=none&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&headerType=none&type=tcp&sni=de166.mech-pro.online&sid=16e0f049&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-59
+vless://976f82d9-0e6b-40ed-9c09-cafd06c4bc98@187.7.206.49:443?security=reality&encryption=none&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de166.mech-pro.online&sid=16e0f049#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-59
 
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-60
+vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-60
 
-vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@95.129.234.108:8443?mode=auto&path=%2Fccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=fafeqdhlett2p5la6d.cdn.cachefleet.com&fp=firefox&type=xhttp&sni=hazel-beacon.cdn.cachefleet.com#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-61
+vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@95.129.234.108:8443?mode=auto&path=%2Fccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=fafeqdhlett2p5la6d.cdn.cachefleet.com&fp=firefox&type=xhttp&allowInsecure=0&sni=hazel-beacon.cdn.cachefleet.com#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-61
 
-vless://a3583bf4-ec07-4fe8-bca3-6881353ca2c5@2.27.175.229:446?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&pbk=1_4w5OxAZZeAoT_m1LNMcKmk7yvNrJjf6P7QDHF15VE&fp=qq&type=grpc&serviceName=grpc&sni=deepl.com&sid=17b6feb4481539d2&insecure=0#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-62
+vless://a3583bf4-ec07-4fe8-bca3-6881353ca2c5@2.27.175.229:446?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&pbk=1_4w5OxAZZeAoT_m1LNMcKmk7yvNrJjf6P7QDHF15VE&fp=qq&type=grpc&serviceName=grpc&sni=deepl.com&sid=17b6feb4481539d2#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-62
 
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@159.223.20.232:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-63
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@159.223.20.232:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-63
 
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=packet-up&path=%2F%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28iPhone%3B%2BCPU%2BiPhone%2BOS%2B16_1_1%2Blike%2BMac%2BOS%2BX%29%2BAppleWebKit%2F605.1.15%2B%28KHTML%2C%2Blike%2BGecko%29%2BVersion%2F16.1%2BMobile%2F15E148%2BSafari%2F604.1%22%7D%7D&insecure=0&host=cplusshape.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-64
+vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=packet-up&path=%2F%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28iPhone%3B%2BCPU%2BiPhone%2BOS%2B16_1_1%2Blike%2BMac%2BOS%2BX%29%2BAppleWebKit%2F605.1.15%2B%28KHTML%2C%2Blike%2BGecko%29%2BVersion%2F16.1%2BMobile%2F15E148%2BSafari%2F604.1%22%7D%7D&insecure=0&host=cplusshape.global.ssl.fastly.net&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-64
 
-vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-65
+vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-65
 
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@159.223.20.232:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-66
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@159.223.20.232:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-66
 
-vless://d7ddade6-b7a0-4cab-a910-d5d5c378d98a@201.58.189.104:2083?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&pbk=B7x5bYp-YhtLeH31zYcilpKFCkGTMe3jtSECSw-bMC4&fp=chrome&spx=%2F&type=grpc&serviceName=google.storage.v2.Storage&sni=dl.google.com&sid=8bd80253&insecure=0#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-67
+vless://d7ddade6-b7a0-4cab-a910-d5d5c378d98a@201.58.189.104:2083?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&pbk=B7x5bYp-YhtLeH31zYcilpKFCkGTMe3jtSECSw-bMC4&fp=chrome&spx=%2F&type=grpc&serviceName=google.storage.v2.Storage&sni=dl.google.com&sid=8bd80253#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-67
 
-vless://90157e25-cee1-4217-921e-91f300bc1a24@ee.subv.ru:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=dvizhok.su&sid=428ef87fd47a3a32&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA-%40PewezaTech-68
+vless://90157e25-cee1-4217-921e-91f300bc1a24@ee.subv.ru:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=dvizhok.su&sid=428ef87fd47a3a32#%F0%9F%87%AA%F0%9F%87%AA-%40PewezaTech-68
 
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@subscribe.goonars.com:443?security=reality&encryption=none&pbk=ZZihyRejv8lHTwTnNCGF0IB6U9kS-L34L3v0ch6k_30&headerType=none&fp=ios&type=tcp&sni=subscribe.goonars.com&sid=4f339f5f&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-69
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@subscribe.goonars.com:443?security=reality&encryption=none&pbk=ZZihyRejv8lHTwTnNCGF0IB6U9kS-L34L3v0ch6k_30&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=subscribe.goonars.com&sid=4f339f5f#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-69
 
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@185.32.6.47:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2&insecure=0#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-70
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@185.32.6.47:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-70
 
-vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@199.232.78.159:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-71
+vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@199.232.78.159:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-71
 
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2534.wagahaha.xyz:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&sni=u695098udfec02ees2532.xxti.top&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5-%40PewezaTech-72
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2534.wagahaha.xyz:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=u695098udfec02ees2532.xxti.top#%F0%9F%87%AF%F0%9F%87%B5-%40PewezaTech-72
 
-vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@48.102.163.136:8443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=&fp=edge&type=tcp&sni=tradingview.com&sid=8f3c6e2a1b5d4f09&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-73
+vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@48.102.163.136:8443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8f3c6e2a1b5d4f09#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-73
 
-vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.45.6:2096?security=tls&encryption=none&insecure=0&host=pcloud.z-tas.com&type=ws&sni=pcloud.z-tas.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-74
+vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.45.6:2096?security=tls&encryption=none&insecure=0&host=pcloud.z-tas.com&type=ws&allowInsecure=0&sni=pcloud.z-tas.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-74
 
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%F0%9F%87%AC%F0%9F%87%A7-%40PewezaTech-75
 
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@dwedfs.whitenw.net:8445?security=reality&encryption=none&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&headerType=none&type=tcp&sni=passport.yandex.ru&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-76
+vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@dwedfs.whitenw.net:8445?security=reality&encryption=none&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-76
 
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.9.240.138:26990?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&headerType=none&type=tcp&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-77
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.9.240.138:26990?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-77
 
-vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@146.75.59.186:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-78
+vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@146.75.59.186:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-78
 
-vless://83cc8226-1087-49ae-aac3-1f157ddc57b4@176.120.21.23:443?security=reality&encryption=none&pbk=OAU9917HKYqvTO59c9SvAL9BBh8v85tfJhw5PMg-2iU&headerType=none&type=tcp&sni=yahoo.com&sid=c4d4cf50489d51&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%BF-%40PewezaTech-79
+vless://83cc8226-1087-49ae-aac3-1f157ddc57b4@176.120.21.23:443?security=reality&encryption=none&pbk=OAU9917HKYqvTO59c9SvAL9BBh8v85tfJhw5PMg-2iU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c4d4cf50489d51#%F0%9F%87%B0%F0%9F%87%BF-%40PewezaTech-79
 
-vless://0f11b72f-1af1-4f0a-b992-87a8241d9213@srv21.buddygpt.ru:443?mode=auto&path=%2Fassets%2F1117b6ce&security=reality&encryption=none&pbk=YEyZf6GvVcUG2VJnxyWOJQd8_ORz0n8Tw8Hs417OPxo&type=xhttp&sni=packages.gitlab.com&sid=5b524cdb28b6824a&insecure=0#%F0%9F%87%B2%F0%9F%87%A9-%40PewezaTech-80
-
-
-
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&spx=%2F%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2&insecure=0#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-01
-
-vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@172.213.24.16:2083?security=reality&encryption=none&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&headerType=none&type=tcp&sni=www.apple.com&sid=0123456789abcdef&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B9-%40PewezaTech-02
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-03
-
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@159.223.20.232:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-04
-
-vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@2.26.230.148:443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&type=tcp&sni=tradingview.com&sid=8f3c6e2a1b5d4f09&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-05
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-06
-
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&headerType=none&type=tcp&sni=api.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-07
-
-vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&headerType=none&fp=chrome&type=tcp&sni=key-master-saver.com&sid=1c3e8241a8743df9&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-08
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMnNobGJlUlhkRTQ1YVZB@20.166.20.135:443#%F0%9F%87%AE%F0%9F%87%AA-%40PewezaTech-09
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMnNobGJlUlhkRTQ1YVZB@20.166.20.135:443#%F0%9F%87%AE%F0%9F%87%AA-%40PewezaTech-10
-
-ss://YWVzLTI1Ni1nY206TkRVd09XWmtPV0ZoWTJGaVpHSmlNek01WTJGaE56UmxObUkyWVRnMg==@37.152.180.223:9147#%F0%9F%87%AE%F0%9F%87%B7-%40PewezaTech-11
-
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@prime.jarbook.net:443?security=reality&encryption=none&pbk=oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k&headerType=none&type=tcp&sni=prime.jarbook.net&sid=77a8c8c8&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7-%40PewezaTech-12
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-13
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@167.82.64.47:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=packet-up&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28iPhone%3B%2BCPU%2BiPhone%2BOS%2B16_1_1%2Blike%2BMac%2BOS%2BX%29%2BAppleWebKit%2F605.1.15%2B%28KHTML%2C%2Blike%2BGecko%29%2BVersion%2F16.1%2BMobile%2F15E148%2BSafari%2F604.1%22%7D%7D&insecure=0&host=cplusshape.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-14
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=packet-up&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28iPhone%3B%2BCPU%2BiPhone%2BOS%2B16_1_1%2Blike%2BMac%2BOS%2BX%29%2BAppleWebKit%2F605.1.15%2B%28KHTML%2C%2Blike%2BGecko%29%2BVersion%2F16.1%2BMobile%2F15E148%2BSafari%2F604.1%22%7D%7D&insecure=0&host=cplusshape.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-15
-
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&path=%2Fccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=is-tw-relay.cdn.cachefleet.com&fp=firefox&type=xhttp&sni=tansy-wharf.cdn.cachefleet.com#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-16
-
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2&insecure=0#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-17
-
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@159.223.20.232:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-18
-
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.107:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&sni=qq.utiltools.site&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-19
-
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2&insecure=0#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-20
-
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.107:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&sni=qq.utiltools.site&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-21
-
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&path=%2Fccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=is-tw-relay.cdn.cachefleet.com&type=xhttp&sni=tansy-wharf.cdn.cachefleet.com#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-22
-
-vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=ios&type=tcp&sni=key-master-saver.com&sid=1c3e8241a8743df9&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-23
-
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&sni=qq.utiltools.site&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-24
-
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@131.123.43.103:443?security=reality&encryption=none&pbk=SgFQg7srP1xgjWhnSU9lpUMDRlsoLIXlw6nX-mfOdlg&headerType=none&type=tcp&sni=bg2.gacvpn.site&sid=1f8bab7ad81089f2&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A7%F0%9F%87%AC-%40PewezaTech-25
-
-vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=ios&type=tcp&sni=key-master-saver.com&sid=1c3e8241a8743df9&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-26
-
-vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&headerType=none&fp=chrome&type=tcp&sni=key-master-saver.com&sid=1c3e8241a8743df9&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-27
-
-vless://d651c9ab-b844-4420-b3d0-20d201ef5f55@38.244.155.67:443?security=reality&encryption=none&pbk=NLXltMEkWIxv9bL2J4XkPGb4oVwGbCkITCTXF-jVxAE&headerType=none&type=tcp&sni=node-eu-1.nztpro.com&sid=2976f793571fb671&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA-%40PewezaTech-28
-
-vless://6430ede6-3f43-4beb-95c0-0fb29e9ea76d@estonia2.banovano.space:17417?mode=auto&path=%2F&security=reality&encryption=none&pbk=yhOC-2sFjE59lY3n0IA0AAluzIpjoJiL0QH1SQ_ZZQ8&type=xhttp&sni=yandex-cdn-mirror.ru&sid=728f3f459ddf&insecure=0#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-29
-
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@45.144.112.55:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&sni=yahoo.com&sid=c39cc7310a&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-30
-
-trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&sni=us001.zestapp778.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-31
-
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?security=reality&encryption=none&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&headerType=none&type=tcp&sni=absolute-disaster.org&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-32
-
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&type=tcp&sni=qq.utiltools.site&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-33
-
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@62.109.17.78:2058?security=reality&encryption=none&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&headerType=none&type=tcp&sni=www.cloudflare.com&sid=937255313d6ce673&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-34
-
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?security=tls&insecure=0&headerType=none&type=tcp&sni=blog.discovergreatjobsandadvanceyourcareer.com#%F0%9F%87%AA%F0%9F%87%B8-%40PewezaTech-35
-
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&type=tcp&sni=qq.utiltools.site&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-36
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-37
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMnNobGJlUlhkRTQ1YVZB@20.166.20.135:443#%F0%9F%87%AE%F0%9F%87%AA-%40PewezaTech-38
-
-vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@199.232.78.159:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-39
-
-vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:60775?security=reality&encryption=none&pbk=2J1JGfkg39tJVB_Yv9fZPHCwuB_AfTBtMygLOyu6EFg&headerType=none&type=tcp&sni=api.adidas.com&sid=eaf7f5&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-40
-
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@83.217.201.82:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&type=tcp&sni=skvoz-dpi.com&sid=93ae75024604f796&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-41
-
-vless://4dbf1ade-33f1-40dc-9273-e51babd570fe@104.36.69.105:443?security=reality&encryption=none&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&headerType=none&type=tcp&sni=portal.citygrainla.com&sid=051f20c2344a2dfd&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-42
-
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@doghkzf.zalolink.com:28675?security=reality&encryption=none&pbk=jgtiLXdCnQ9WRWMuu2gsuGQOQTCRZQpspnn228kjTSA&headerType=none&type=tcp&sni=www.lamer.com.hk&sid=9a79807253c040&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0-%40PewezaTech-43
-
-vless://48bbb40c-99b2-45fc-9572-215ea2f233fb@31.76.83.104:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&sni=lt-part.cookie-line.cc&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-44
-
-vless://1653818d-532e-46be-b825-384107fb7c3a@net.mediacorphub.org:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=home.v2.MetricsService&sni=net.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1-%40PewezaTech-45
-
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.215.132.18:19999#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-46
-
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.147:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=home.v1.ObjectService&sni=tracker.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1-%40PewezaTech-47
-
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6-%40PewezaTech-48
-
-vless://7d53c50c-3abf-4cb5-9d58-e7a42ce1d1c6@148.113.5.22:443?security=reality&encryption=none&pbk=Z427KvuqeeUvrRo-BDKuc9xG5t0z0y4zAnhA_NIFFwI&headerType=none&type=tcp&sni=www.cloudflare.com&sid=7ff98efcced3fd5b&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B3-%40PewezaTech-49
-
-ss://YWVzLTI1Ni1nY206RkpvX1YtS012cmlEZWtOMENZa2ROSDBD@177.202.64.67:1080#%F0%9F%87%B3%F0%9F%87%B1-%40PewezaTech-50
-
-vless://1653818d-532e-46be-b825-384107fb7c3a@img.mediacorphub.org:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=edge&type=grpc&serviceName=home.v2.MetricsService&sni=img.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1-%40PewezaTech-51
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=packet-up&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28iPhone%3B%2BCPU%2BiPhone%2BOS%2B16_1_1%2Blike%2BMac%2BOS%2BX%29%2BAppleWebKit%2F605.1.15%2B%28KHTML%2C%2Blike%2BGecko%29%2BVersion%2F16.1%2BMobile%2F15E148%2BSafari%2F604.1%22%7D%7D&insecure=0&host=cplusshape.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-52
-
-vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@wwww.qarvian.ir:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-53
-
-vless://c9bf7875-6722-43cd-91d8-d0528a57e426@170.205.36.116:8443?security=reality&encryption=none&pbk=5Oh9-P6sO_Fly4XU_sN0JOb4Ek3FgoMznhDExI70GEk&headerType=none&type=tcp&sni=dl.google.com&sid=ab96&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC-%40PewezaTech-54
-
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?security=reality&encryption=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&headerType=none&fp=chrome&type=tcp&sni=gemsubbgem.world&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-55
-
-vless://69b5eabd-1232-4b9d-8b9f-62d4654a5de6@185.194.191.3:8443?security=reality&encryption=mlkem768x25519plus.native.0rtt.-qGa4ObyCM0bUJQUKtqXQe9w2h6OYI3AYPSSpKA-UHE&pbk=4gAKlcsEJm-DbirnMdDlpfHUGTohtRHkWzJNtOFspyE&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&headerType=none&fp=chrome&spx=%2F7d6ca087fed1ab6&type=tcp&sni=play.google.com&sid=d475c71951&insecure=0#%F0%9F%87%BA%F0%9F%87%A6-%40PewezaTech-56
-
-vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@201.58.185.120:443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&type=tcp&sni=tradingview.com&sid=8f3c6e2a1b5d4f09&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-57
-
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?security=reality&encryption=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&headerType=none&fp=chrome&type=tcp&sni=gemsubbgem.world&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-58
-
-vless://976f82d9-0e6b-40ed-9c09-cafd06c4bc98@187.7.206.49:443?security=reality&encryption=none&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&headerType=none&type=tcp&sni=de166.mech-pro.online&sid=16e0f049&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-59
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-60
-
-vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@95.129.234.108:8443?mode=auto&path=%2Fccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=fafeqdhlett2p5la6d.cdn.cachefleet.com&fp=firefox&type=xhttp&sni=hazel-beacon.cdn.cachefleet.com#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-61
-
-vless://a3583bf4-ec07-4fe8-bca3-6881353ca2c5@2.27.175.229:446?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&pbk=1_4w5OxAZZeAoT_m1LNMcKmk7yvNrJjf6P7QDHF15VE&fp=qq&type=grpc&serviceName=grpc&sni=deepl.com&sid=17b6feb4481539d2&insecure=0#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-62
-
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@159.223.20.232:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-63
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=packet-up&path=%2F%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28iPhone%3B%2BCPU%2BiPhone%2BOS%2B16_1_1%2Blike%2BMac%2BOS%2BX%29%2BAppleWebKit%2F605.1.15%2B%28KHTML%2C%2Blike%2BGecko%29%2BVersion%2F16.1%2BMobile%2F15E148%2BSafari%2F604.1%22%7D%7D&insecure=0&host=cplusshape.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-64
-
-vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-65
-
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@159.223.20.232:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-66
-
-vless://d7ddade6-b7a0-4cab-a910-d5d5c378d98a@201.58.189.104:2083?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&pbk=B7x5bYp-YhtLeH31zYcilpKFCkGTMe3jtSECSw-bMC4&fp=chrome&spx=%2F&type=grpc&serviceName=google.storage.v2.Storage&sni=dl.google.com&sid=8bd80253&insecure=0#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-67
-
-vless://90157e25-cee1-4217-921e-91f300bc1a24@ee.subv.ru:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=dvizhok.su&sid=428ef87fd47a3a32&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA-%40PewezaTech-68
-
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@subscribe.goonars.com:443?security=reality&encryption=none&pbk=ZZihyRejv8lHTwTnNCGF0IB6U9kS-L34L3v0ch6k_30&headerType=none&fp=ios&type=tcp&sni=subscribe.goonars.com&sid=4f339f5f&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-69
-
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@185.32.6.47:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2&insecure=0#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-70
-
-vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@199.232.78.159:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-71
-
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2534.wagahaha.xyz:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&sni=u695098udfec02ees2532.xxti.top&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5-%40PewezaTech-72
-
-vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@48.102.163.136:8443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=&fp=edge&type=tcp&sni=tradingview.com&sid=8f3c6e2a1b5d4f09&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-73
-
-vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.45.6:2096?security=tls&encryption=none&insecure=0&host=pcloud.z-tas.com&type=ws&sni=pcloud.z-tas.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-74
-
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%F0%9F%87%AC%F0%9F%87%A7-%40PewezaTech-75
-
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@dwedfs.whitenw.net:8445?security=reality&encryption=none&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&headerType=none&type=tcp&sni=passport.yandex.ru&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-76
-
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.9.240.138:26990?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&headerType=none&type=tcp&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-77
-
-vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@146.75.59.186:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-78
-
-vless://83cc8226-1087-49ae-aac3-1f157ddc57b4@176.120.21.23:443?security=reality&encryption=none&pbk=OAU9917HKYqvTO59c9SvAL9BBh8v85tfJhw5PMg-2iU&headerType=none&type=tcp&sni=yahoo.com&sid=c4d4cf50489d51&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%BF-%40PewezaTech-79
-
-vless://0f11b72f-1af1-4f0a-b992-87a8241d9213@srv21.buddygpt.ru:443?mode=auto&path=%2Fassets%2F1117b6ce&security=reality&encryption=none&pbk=YEyZf6GvVcUG2VJnxyWOJQd8_ORz0n8Tw8Hs417OPxo&type=xhttp&sni=packages.gitlab.com&sid=5b524cdb28b6824a&insecure=0#%F0%9F%87%B2%F0%9F%87%A9-%40PewezaTech-80
-
-
-
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&spx=%2F%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2&insecure=0#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-01
-
-vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@172.213.24.16:2083?security=reality&encryption=none&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&headerType=none&type=tcp&sni=www.apple.com&sid=0123456789abcdef&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B9-%40PewezaTech-02
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-03
-
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@159.223.20.232:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-04
-
-vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@2.26.230.148:443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&type=tcp&sni=tradingview.com&sid=8f3c6e2a1b5d4f09&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-05
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-06
-
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&headerType=none&type=tcp&sni=api.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-07
-
-vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&headerType=none&fp=chrome&type=tcp&sni=key-master-saver.com&sid=1c3e8241a8743df9&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-08
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMnNobGJlUlhkRTQ1YVZB@20.166.20.135:443#%F0%9F%87%AE%F0%9F%87%AA-%40PewezaTech-09
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMnNobGJlUlhkRTQ1YVZB@20.166.20.135:443#%F0%9F%87%AE%F0%9F%87%AA-%40PewezaTech-10
-
-ss://YWVzLTI1Ni1nY206TkRVd09XWmtPV0ZoWTJGaVpHSmlNek01WTJGaE56UmxObUkyWVRnMg==@37.152.180.223:9147#%F0%9F%87%AE%F0%9F%87%B7-%40PewezaTech-11
-
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@prime.jarbook.net:443?security=reality&encryption=none&pbk=oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k&headerType=none&type=tcp&sni=prime.jarbook.net&sid=77a8c8c8&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7-%40PewezaTech-12
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-13
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@167.82.64.47:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=packet-up&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28iPhone%3B%2BCPU%2BiPhone%2BOS%2B16_1_1%2Blike%2BMac%2BOS%2BX%29%2BAppleWebKit%2F605.1.15%2B%28KHTML%2C%2Blike%2BGecko%29%2BVersion%2F16.1%2BMobile%2F15E148%2BSafari%2F604.1%22%7D%7D&insecure=0&host=cplusshape.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-14
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=packet-up&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28iPhone%3B%2BCPU%2BiPhone%2BOS%2B16_1_1%2Blike%2BMac%2BOS%2BX%29%2BAppleWebKit%2F605.1.15%2B%28KHTML%2C%2Blike%2BGecko%29%2BVersion%2F16.1%2BMobile%2F15E148%2BSafari%2F604.1%22%7D%7D&insecure=0&host=cplusshape.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-15
-
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&path=%2Fccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=is-tw-relay.cdn.cachefleet.com&fp=firefox&type=xhttp&sni=tansy-wharf.cdn.cachefleet.com#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-16
-
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2&insecure=0#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-17
-
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@159.223.20.232:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-18
-
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.107:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&sni=qq.utiltools.site&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-19
-
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2&insecure=0#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-20
-
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.107:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&sni=qq.utiltools.site&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-21
-
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&path=%2Fccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=is-tw-relay.cdn.cachefleet.com&type=xhttp&sni=tansy-wharf.cdn.cachefleet.com#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-22
-
-vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=ios&type=tcp&sni=key-master-saver.com&sid=1c3e8241a8743df9&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-23
-
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&sni=qq.utiltools.site&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-24
-
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@131.123.43.103:443?security=reality&encryption=none&pbk=SgFQg7srP1xgjWhnSU9lpUMDRlsoLIXlw6nX-mfOdlg&headerType=none&type=tcp&sni=bg2.gacvpn.site&sid=1f8bab7ad81089f2&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A7%F0%9F%87%AC-%40PewezaTech-25
-
-vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=ios&type=tcp&sni=key-master-saver.com&sid=1c3e8241a8743df9&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-26
-
-vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&headerType=none&fp=chrome&type=tcp&sni=key-master-saver.com&sid=1c3e8241a8743df9&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-27
-
-vless://d651c9ab-b844-4420-b3d0-20d201ef5f55@38.244.155.67:443?security=reality&encryption=none&pbk=NLXltMEkWIxv9bL2J4XkPGb4oVwGbCkITCTXF-jVxAE&headerType=none&type=tcp&sni=node-eu-1.nztpro.com&sid=2976f793571fb671&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA-%40PewezaTech-28
-
-vless://6430ede6-3f43-4beb-95c0-0fb29e9ea76d@estonia2.banovano.space:17417?mode=auto&path=%2F&security=reality&encryption=none&pbk=yhOC-2sFjE59lY3n0IA0AAluzIpjoJiL0QH1SQ_ZZQ8&type=xhttp&sni=yandex-cdn-mirror.ru&sid=728f3f459ddf&insecure=0#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-29
-
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@45.144.112.55:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&sni=yahoo.com&sid=c39cc7310a&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-30
-
-trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&sni=us001.zestapp778.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-31
-
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?security=reality&encryption=none&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&headerType=none&type=tcp&sni=absolute-disaster.org&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-32
-
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&type=tcp&sni=qq.utiltools.site&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-33
-
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@62.109.17.78:2058?security=reality&encryption=none&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&headerType=none&type=tcp&sni=www.cloudflare.com&sid=937255313d6ce673&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-34
-
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?security=tls&insecure=0&headerType=none&type=tcp&sni=blog.discovergreatjobsandadvanceyourcareer.com#%F0%9F%87%AA%F0%9F%87%B8-%40PewezaTech-35
-
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&type=tcp&sni=qq.utiltools.site&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-36
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-37
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMnNobGJlUlhkRTQ1YVZB@20.166.20.135:443#%F0%9F%87%AE%F0%9F%87%AA-%40PewezaTech-38
-
-vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@199.232.78.159:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-39
-
-vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:60775?security=reality&encryption=none&pbk=2J1JGfkg39tJVB_Yv9fZPHCwuB_AfTBtMygLOyu6EFg&headerType=none&type=tcp&sni=api.adidas.com&sid=eaf7f5&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-40
-
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@83.217.201.82:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&type=tcp&sni=skvoz-dpi.com&sid=93ae75024604f796&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-41
-
-vless://4dbf1ade-33f1-40dc-9273-e51babd570fe@104.36.69.105:443?security=reality&encryption=none&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&headerType=none&type=tcp&sni=portal.citygrainla.com&sid=051f20c2344a2dfd&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-42
-
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@doghkzf.zalolink.com:28675?security=reality&encryption=none&pbk=jgtiLXdCnQ9WRWMuu2gsuGQOQTCRZQpspnn228kjTSA&headerType=none&type=tcp&sni=www.lamer.com.hk&sid=9a79807253c040&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0-%40PewezaTech-43
-
-vless://48bbb40c-99b2-45fc-9572-215ea2f233fb@31.76.83.104:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&sni=lt-part.cookie-line.cc&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-44
-
-vless://1653818d-532e-46be-b825-384107fb7c3a@net.mediacorphub.org:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=home.v2.MetricsService&sni=net.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1-%40PewezaTech-45
-
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.215.132.18:19999#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-46
-
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.147:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=home.v1.ObjectService&sni=tracker.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1-%40PewezaTech-47
-
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6-%40PewezaTech-48
-
-vless://7d53c50c-3abf-4cb5-9d58-e7a42ce1d1c6@148.113.5.22:443?security=reality&encryption=none&pbk=Z427KvuqeeUvrRo-BDKuc9xG5t0z0y4zAnhA_NIFFwI&headerType=none&type=tcp&sni=www.cloudflare.com&sid=7ff98efcced3fd5b&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B3-%40PewezaTech-49
-
-ss://YWVzLTI1Ni1nY206RkpvX1YtS012cmlEZWtOMENZa2ROSDBD@177.202.64.67:1080#%F0%9F%87%B3%F0%9F%87%B1-%40PewezaTech-50
-
-vless://1653818d-532e-46be-b825-384107fb7c3a@img.mediacorphub.org:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=edge&type=grpc&serviceName=home.v2.MetricsService&sni=img.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1-%40PewezaTech-51
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=packet-up&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28iPhone%3B%2BCPU%2BiPhone%2BOS%2B16_1_1%2Blike%2BMac%2BOS%2BX%29%2BAppleWebKit%2F605.1.15%2B%28KHTML%2C%2Blike%2BGecko%29%2BVersion%2F16.1%2BMobile%2F15E148%2BSafari%2F604.1%22%7D%7D&insecure=0&host=cplusshape.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-52
-
-vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@wwww.qarvian.ir:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-53
-
-vless://c9bf7875-6722-43cd-91d8-d0528a57e426@170.205.36.116:8443?security=reality&encryption=none&pbk=5Oh9-P6sO_Fly4XU_sN0JOb4Ek3FgoMznhDExI70GEk&headerType=none&type=tcp&sni=dl.google.com&sid=ab96&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC-%40PewezaTech-54
-
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?security=reality&encryption=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&headerType=none&fp=chrome&type=tcp&sni=gemsubbgem.world&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-55
-
-vless://69b5eabd-1232-4b9d-8b9f-62d4654a5de6@185.194.191.3:8443?security=reality&encryption=mlkem768x25519plus.native.0rtt.-qGa4ObyCM0bUJQUKtqXQe9w2h6OYI3AYPSSpKA-UHE&pbk=4gAKlcsEJm-DbirnMdDlpfHUGTohtRHkWzJNtOFspyE&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&headerType=none&fp=chrome&spx=%2F7d6ca087fed1ab6&type=tcp&sni=play.google.com&sid=d475c71951&insecure=0#%F0%9F%87%BA%F0%9F%87%A6-%40PewezaTech-56
-
-vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@201.58.185.120:443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&type=tcp&sni=tradingview.com&sid=8f3c6e2a1b5d4f09&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-57
-
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?security=reality&encryption=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&headerType=none&fp=chrome&type=tcp&sni=gemsubbgem.world&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-58
-
-vless://976f82d9-0e6b-40ed-9c09-cafd06c4bc98@187.7.206.49:443?security=reality&encryption=none&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&headerType=none&type=tcp&sni=de166.mech-pro.online&sid=16e0f049&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-59
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-60
-
-vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@95.129.234.108:8443?mode=auto&path=%2Fccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=fafeqdhlett2p5la6d.cdn.cachefleet.com&fp=firefox&type=xhttp&sni=hazel-beacon.cdn.cachefleet.com#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-61
-
-vless://a3583bf4-ec07-4fe8-bca3-6881353ca2c5@2.27.175.229:446?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&pbk=1_4w5OxAZZeAoT_m1LNMcKmk7yvNrJjf6P7QDHF15VE&fp=qq&type=grpc&serviceName=grpc&sni=deepl.com&sid=17b6feb4481539d2&insecure=0#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-62
-
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@159.223.20.232:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-63
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=packet-up&path=%2F%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28iPhone%3B%2BCPU%2BiPhone%2BOS%2B16_1_1%2Blike%2BMac%2BOS%2BX%29%2BAppleWebKit%2F605.1.15%2B%28KHTML%2C%2Blike%2BGecko%29%2BVersion%2F16.1%2BMobile%2F15E148%2BSafari%2F604.1%22%7D%7D&insecure=0&host=cplusshape.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-64
-
-vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-65
-
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@159.223.20.232:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-66
-
-vless://d7ddade6-b7a0-4cab-a910-d5d5c378d98a@201.58.189.104:2083?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&pbk=B7x5bYp-YhtLeH31zYcilpKFCkGTMe3jtSECSw-bMC4&fp=chrome&spx=%2F&type=grpc&serviceName=google.storage.v2.Storage&sni=dl.google.com&sid=8bd80253&insecure=0#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-67
-
-vless://90157e25-cee1-4217-921e-91f300bc1a24@ee.subv.ru:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=dvizhok.su&sid=428ef87fd47a3a32&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA-%40PewezaTech-68
-
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@subscribe.goonars.com:443?security=reality&encryption=none&pbk=ZZihyRejv8lHTwTnNCGF0IB6U9kS-L34L3v0ch6k_30&headerType=none&fp=ios&type=tcp&sni=subscribe.goonars.com&sid=4f339f5f&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-69
-
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@185.32.6.47:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2&insecure=0#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-70
-
-vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@199.232.78.159:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-71
-
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2534.wagahaha.xyz:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&sni=u695098udfec02ees2532.xxti.top&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5-%40PewezaTech-72
-
-vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@48.102.163.136:8443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=&fp=edge&type=tcp&sni=tradingview.com&sid=8f3c6e2a1b5d4f09&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-73
-
-vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.45.6:2096?security=tls&encryption=none&insecure=0&host=pcloud.z-tas.com&type=ws&sni=pcloud.z-tas.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-74
-
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%F0%9F%87%AC%F0%9F%87%A7-%40PewezaTech-75
-
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@dwedfs.whitenw.net:8445?security=reality&encryption=none&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&headerType=none&type=tcp&sni=passport.yandex.ru&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-76
-
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.9.240.138:26990?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&headerType=none&type=tcp&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-77
-
-vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@146.75.59.186:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-78
-
-vless://83cc8226-1087-49ae-aac3-1f157ddc57b4@176.120.21.23:443?security=reality&encryption=none&pbk=OAU9917HKYqvTO59c9SvAL9BBh8v85tfJhw5PMg-2iU&headerType=none&type=tcp&sni=yahoo.com&sid=c4d4cf50489d51&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%BF-%40PewezaTech-79
-
-vless://0f11b72f-1af1-4f0a-b992-87a8241d9213@srv21.buddygpt.ru:443?mode=auto&path=%2Fassets%2F1117b6ce&security=reality&encryption=none&pbk=YEyZf6GvVcUG2VJnxyWOJQd8_ORz0n8Tw8Hs417OPxo&type=xhttp&sni=packages.gitlab.com&sid=5b524cdb28b6824a&insecure=0#%F0%9F%87%B2%F0%9F%87%A9-%40PewezaTech-80
-
-
-
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&spx=%2F%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2&insecure=0#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-01
-
-vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@172.213.24.16:2083?security=reality&encryption=none&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&headerType=none&type=tcp&sni=www.apple.com&sid=0123456789abcdef&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B9-%40PewezaTech-02
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-03
-
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@159.223.20.232:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-04
-
-vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@2.26.230.148:443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&type=tcp&sni=tradingview.com&sid=8f3c6e2a1b5d4f09&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-05
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-06
-
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&headerType=none&type=tcp&sni=api.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-07
-
-vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&headerType=none&fp=chrome&type=tcp&sni=key-master-saver.com&sid=1c3e8241a8743df9&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-08
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMnNobGJlUlhkRTQ1YVZB@20.166.20.135:443#%F0%9F%87%AE%F0%9F%87%AA-%40PewezaTech-09
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMnNobGJlUlhkRTQ1YVZB@20.166.20.135:443#%F0%9F%87%AE%F0%9F%87%AA-%40PewezaTech-10
-
-ss://YWVzLTI1Ni1nY206TkRVd09XWmtPV0ZoWTJGaVpHSmlNek01WTJGaE56UmxObUkyWVRnMg==@37.152.180.223:9147#%F0%9F%87%AE%F0%9F%87%B7-%40PewezaTech-11
-
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@prime.jarbook.net:443?security=reality&encryption=none&pbk=oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k&headerType=none&type=tcp&sni=prime.jarbook.net&sid=77a8c8c8&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7-%40PewezaTech-12
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-13
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@167.82.64.47:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=packet-up&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28iPhone%3B%2BCPU%2BiPhone%2BOS%2B16_1_1%2Blike%2BMac%2BOS%2BX%29%2BAppleWebKit%2F605.1.15%2B%28KHTML%2C%2Blike%2BGecko%29%2BVersion%2F16.1%2BMobile%2F15E148%2BSafari%2F604.1%22%7D%7D&insecure=0&host=cplusshape.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-14
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=packet-up&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28iPhone%3B%2BCPU%2BiPhone%2BOS%2B16_1_1%2Blike%2BMac%2BOS%2BX%29%2BAppleWebKit%2F605.1.15%2B%28KHTML%2C%2Blike%2BGecko%29%2BVersion%2F16.1%2BMobile%2F15E148%2BSafari%2F604.1%22%7D%7D&insecure=0&host=cplusshape.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-15
-
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&path=%2Fccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=is-tw-relay.cdn.cachefleet.com&fp=firefox&type=xhttp&sni=tansy-wharf.cdn.cachefleet.com#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-16
-
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2&insecure=0#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-17
-
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@159.223.20.232:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-18
-
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.107:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&sni=qq.utiltools.site&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-19
-
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2&insecure=0#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-20
-
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.107:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&sni=qq.utiltools.site&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-21
-
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&path=%2Fccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=is-tw-relay.cdn.cachefleet.com&type=xhttp&sni=tansy-wharf.cdn.cachefleet.com#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-22
-
-vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=ios&type=tcp&sni=key-master-saver.com&sid=1c3e8241a8743df9&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-23
-
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&sni=qq.utiltools.site&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-24
-
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@131.123.43.103:443?security=reality&encryption=none&pbk=SgFQg7srP1xgjWhnSU9lpUMDRlsoLIXlw6nX-mfOdlg&headerType=none&type=tcp&sni=bg2.gacvpn.site&sid=1f8bab7ad81089f2&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A7%F0%9F%87%AC-%40PewezaTech-25
-
-vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=ios&type=tcp&sni=key-master-saver.com&sid=1c3e8241a8743df9&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-26
-
-vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&headerType=none&fp=chrome&type=tcp&sni=key-master-saver.com&sid=1c3e8241a8743df9&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-27
-
-vless://d651c9ab-b844-4420-b3d0-20d201ef5f55@38.244.155.67:443?security=reality&encryption=none&pbk=NLXltMEkWIxv9bL2J4XkPGb4oVwGbCkITCTXF-jVxAE&headerType=none&type=tcp&sni=node-eu-1.nztpro.com&sid=2976f793571fb671&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA-%40PewezaTech-28
-
-vless://6430ede6-3f43-4beb-95c0-0fb29e9ea76d@estonia2.banovano.space:17417?mode=auto&path=%2F&security=reality&encryption=none&pbk=yhOC-2sFjE59lY3n0IA0AAluzIpjoJiL0QH1SQ_ZZQ8&type=xhttp&sni=yandex-cdn-mirror.ru&sid=728f3f459ddf&insecure=0#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-29
-
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@45.144.112.55:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&sni=yahoo.com&sid=c39cc7310a&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-30
-
-trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&sni=us001.zestapp778.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-31
-
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?security=reality&encryption=none&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&headerType=none&type=tcp&sni=absolute-disaster.org&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-32
-
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&type=tcp&sni=qq.utiltools.site&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-33
-
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@62.109.17.78:2058?security=reality&encryption=none&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&headerType=none&type=tcp&sni=www.cloudflare.com&sid=937255313d6ce673&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-34
-
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?security=tls&insecure=0&headerType=none&type=tcp&sni=blog.discovergreatjobsandadvanceyourcareer.com#%F0%9F%87%AA%F0%9F%87%B8-%40PewezaTech-35
-
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&type=tcp&sni=qq.utiltools.site&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-36
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-37
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMnNobGJlUlhkRTQ1YVZB@20.166.20.135:443#%F0%9F%87%AE%F0%9F%87%AA-%40PewezaTech-38
-
-vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@199.232.78.159:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-39
-
-vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:60775?security=reality&encryption=none&pbk=2J1JGfkg39tJVB_Yv9fZPHCwuB_AfTBtMygLOyu6EFg&headerType=none&type=tcp&sni=api.adidas.com&sid=eaf7f5&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-40
-
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@83.217.201.82:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&type=tcp&sni=skvoz-dpi.com&sid=93ae75024604f796&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-41
-
-vless://4dbf1ade-33f1-40dc-9273-e51babd570fe@104.36.69.105:443?security=reality&encryption=none&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&headerType=none&type=tcp&sni=portal.citygrainla.com&sid=051f20c2344a2dfd&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-42
-
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@doghkzf.zalolink.com:28675?security=reality&encryption=none&pbk=jgtiLXdCnQ9WRWMuu2gsuGQOQTCRZQpspnn228kjTSA&headerType=none&type=tcp&sni=www.lamer.com.hk&sid=9a79807253c040&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0-%40PewezaTech-43
-
-vless://48bbb40c-99b2-45fc-9572-215ea2f233fb@31.76.83.104:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&sni=lt-part.cookie-line.cc&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-44
-
-vless://1653818d-532e-46be-b825-384107fb7c3a@net.mediacorphub.org:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=home.v2.MetricsService&sni=net.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1-%40PewezaTech-45
-
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.215.132.18:19999#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-46
-
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.147:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=home.v1.ObjectService&sni=tracker.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1-%40PewezaTech-47
-
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6-%40PewezaTech-48
-
-vless://7d53c50c-3abf-4cb5-9d58-e7a42ce1d1c6@148.113.5.22:443?security=reality&encryption=none&pbk=Z427KvuqeeUvrRo-BDKuc9xG5t0z0y4zAnhA_NIFFwI&headerType=none&type=tcp&sni=www.cloudflare.com&sid=7ff98efcced3fd5b&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B3-%40PewezaTech-49
-
-ss://YWVzLTI1Ni1nY206RkpvX1YtS012cmlEZWtOMENZa2ROSDBD@177.202.64.67:1080#%F0%9F%87%B3%F0%9F%87%B1-%40PewezaTech-50
-
-vless://1653818d-532e-46be-b825-384107fb7c3a@img.mediacorphub.org:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=edge&type=grpc&serviceName=home.v2.MetricsService&sni=img.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1-%40PewezaTech-51
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=packet-up&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28iPhone%3B%2BCPU%2BiPhone%2BOS%2B16_1_1%2Blike%2BMac%2BOS%2BX%29%2BAppleWebKit%2F605.1.15%2B%28KHTML%2C%2Blike%2BGecko%29%2BVersion%2F16.1%2BMobile%2F15E148%2BSafari%2F604.1%22%7D%7D&insecure=0&host=cplusshape.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-52
-
-vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@wwww.qarvian.ir:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-53
-
-vless://c9bf7875-6722-43cd-91d8-d0528a57e426@170.205.36.116:8443?security=reality&encryption=none&pbk=5Oh9-P6sO_Fly4XU_sN0JOb4Ek3FgoMznhDExI70GEk&headerType=none&type=tcp&sni=dl.google.com&sid=ab96&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC-%40PewezaTech-54
-
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?security=reality&encryption=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&headerType=none&fp=chrome&type=tcp&sni=gemsubbgem.world&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-55
-
-vless://69b5eabd-1232-4b9d-8b9f-62d4654a5de6@185.194.191.3:8443?security=reality&encryption=mlkem768x25519plus.native.0rtt.-qGa4ObyCM0bUJQUKtqXQe9w2h6OYI3AYPSSpKA-UHE&pbk=4gAKlcsEJm-DbirnMdDlpfHUGTohtRHkWzJNtOFspyE&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&headerType=none&fp=chrome&spx=%2F7d6ca087fed1ab6&type=tcp&sni=play.google.com&sid=d475c71951&insecure=0#%F0%9F%87%BA%F0%9F%87%A6-%40PewezaTech-56
-
-vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@201.58.185.120:443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&type=tcp&sni=tradingview.com&sid=8f3c6e2a1b5d4f09&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-57
-
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?security=reality&encryption=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&headerType=none&fp=chrome&type=tcp&sni=gemsubbgem.world&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-58
-
-vless://976f82d9-0e6b-40ed-9c09-cafd06c4bc98@187.7.206.49:443?security=reality&encryption=none&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&headerType=none&type=tcp&sni=de166.mech-pro.online&sid=16e0f049&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-59
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-60
-
-vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@95.129.234.108:8443?mode=auto&path=%2Fccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=fafeqdhlett2p5la6d.cdn.cachefleet.com&fp=firefox&type=xhttp&sni=hazel-beacon.cdn.cachefleet.com#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-61
-
-vless://a3583bf4-ec07-4fe8-bca3-6881353ca2c5@2.27.175.229:446?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&pbk=1_4w5OxAZZeAoT_m1LNMcKmk7yvNrJjf6P7QDHF15VE&fp=qq&type=grpc&serviceName=grpc&sni=deepl.com&sid=17b6feb4481539d2&insecure=0#%F0%9F%87%AB%F0%9F%87%AE-%40PewezaTech-62
-
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@159.223.20.232:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-63
-
-vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=packet-up&path=%2F%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28iPhone%3B%2BCPU%2BiPhone%2BOS%2B16_1_1%2Blike%2BMac%2BOS%2BX%29%2BAppleWebKit%2F605.1.15%2B%28KHTML%2C%2Blike%2BGecko%29%2BVersion%2F16.1%2BMobile%2F15E148%2BSafari%2F604.1%22%7D%7D&insecure=0&host=cplusshape.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-64
-
-vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-65
-
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@159.223.20.232:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA-%40PewezaTech-66
-
-vless://d7ddade6-b7a0-4cab-a910-d5d5c378d98a@201.58.189.104:2083?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&pbk=B7x5bYp-YhtLeH31zYcilpKFCkGTMe3jtSECSw-bMC4&fp=chrome&spx=%2F&type=grpc&serviceName=google.storage.v2.Storage&sni=dl.google.com&sid=8bd80253&insecure=0#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-67
-
-vless://90157e25-cee1-4217-921e-91f300bc1a24@ee.subv.ru:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=dvizhok.su&sid=428ef87fd47a3a32&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA-%40PewezaTech-68
-
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@subscribe.goonars.com:443?security=reality&encryption=none&pbk=ZZihyRejv8lHTwTnNCGF0IB6U9kS-L34L3v0ch6k_30&headerType=none&fp=ios&type=tcp&sni=subscribe.goonars.com&sid=4f339f5f&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-69
-
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@185.32.6.47:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2&insecure=0#%F0%9F%87%B5%F0%9F%87%B1-%40PewezaTech-70
-
-vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@199.232.78.159:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-71
-
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2534.wagahaha.xyz:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&sni=u695098udfec02ees2532.xxti.top&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5-%40PewezaTech-72
-
-vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@48.102.163.136:8443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=&fp=edge&type=tcp&sni=tradingview.com&sid=8f3c6e2a1b5d4f09&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-73
-
-vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.45.6:2096?security=tls&encryption=none&insecure=0&host=pcloud.z-tas.com&type=ws&sni=pcloud.z-tas.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-74
-
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%F0%9F%87%AC%F0%9F%87%A7-%40PewezaTech-75
-
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@dwedfs.whitenw.net:8445?security=reality&encryption=none&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&headerType=none&type=tcp&sni=passport.yandex.ru&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA-%40PewezaTech-76
-
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.9.240.138:26990?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&headerType=none&type=tcp&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-77
-
-vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@146.75.59.186:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8-%40PewezaTech-78
-
-vless://83cc8226-1087-49ae-aac3-1f157ddc57b4@176.120.21.23:443?security=reality&encryption=none&pbk=OAU9917HKYqvTO59c9SvAL9BBh8v85tfJhw5PMg-2iU&headerType=none&type=tcp&sni=yahoo.com&sid=c4d4cf50489d51&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%BF-%40PewezaTech-79
-
-vless://0f11b72f-1af1-4f0a-b992-87a8241d9213@srv21.buddygpt.ru:443?mode=auto&path=%2Fassets%2F1117b6ce&security=reality&encryption=none&pbk=YEyZf6GvVcUG2VJnxyWOJQd8_ORz0n8Tw8Hs417OPxo&type=xhttp&sni=packages.gitlab.com&sid=5b524cdb28b6824a&insecure=0#%F0%9F%87%B2%F0%9F%87%A9-%40PewezaTech-80
+vless://0f11b72f-1af1-4f0a-b992-87a8241d9213@srv21.buddygpt.ru:443?mode=auto&path=%2Fassets%2F1117b6ce&security=reality&encryption=none&pbk=YEyZf6GvVcUG2VJnxyWOJQd8_ORz0n8Tw8Hs417OPxo&type=xhttp&sni=packages.gitlab.com&sid=5b524cdb28b6824a#%F0%9F%87%B2%F0%9F%87%A9-%40PewezaTech-80
